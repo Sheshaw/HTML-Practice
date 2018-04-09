@@ -1,2 +1,2 @@
-# HTML-Practice
-Website (HTML Practice)
+# hello-world
+Just another repository
